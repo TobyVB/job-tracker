@@ -1,0 +1,36 @@
+const jobs = [
+  {
+    title: "",
+    link: "",
+    position: "",
+    timeOfApplication: "",
+    response: false,
+    firstInterview: false,
+    secondInterview: false,
+    thirdInterview: false,
+    hired: false,
+  },
+  //   {
+  //     title: "",
+  //     link: "",
+  //     position: "",
+  //     timeOfApplication: "",
+  //     response: false,
+  //     firstInterview: false,
+  //     secondInterview: false,
+  //     thirdInterview: false,
+  //     hired: false,
+  //   },
+  //   {
+  //     title: "",
+  //     link: "",
+  //     position: "",
+  //     timeOfApplication: "",
+  //     response: false,
+  //     firstInterview: false,
+  //     secondInterview: false,
+  //     thirdInterview: false,
+  //     hired: false,
+  //   },
+];
+export default { jobs };
